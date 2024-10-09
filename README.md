@@ -39,7 +39,7 @@
 -  [x] Bluetooth
 -  [x] Shutdown/Reboot/Sleep/Wake
 -  [x] Speakers
--  [x] Headphone/Headset/Mic Jack (ComboJack req'd)
+-  [x] Headphone/Headset/Mic Jack ([ComboJack](https://github.com/hackintosh-stuff/ComboJack) req'd)
 -  [x] Intel Gigabit Ethernet
 -  [x] App Store
 -  [x] iMessage
